@@ -1,0 +1,58 @@
+body {
+    background-image: url(img/pretum.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    h1{
+        font-size: 42px;
+        font-style: oblique;
+        margin-left: 20px;
+        color:aliceblue;
+    }
+    img{
+        height: 400px;
+        margin-left: 20px;
+    }
+    h3{
+        font-size: 18px;
+        margin-left: 20px;
+        color: aliceblue;
+    }
+    p{
+        font-size: 15px;
+        margin-left: 20px;
+        margin-right: 20px;
+        color: aliceblue;
+    }
+    h2{
+        font-size: 25px;
+        margin-left: 20px;
+        color: aliceblue;
+    }
+    li{
+        font-size: 15px;
+        margin-left: 20px;
+        color: aliceblue;
+    }
+    footer{
+        color: aliceblue;
+    }
+    a{
+        color: rgb(212, 226, 11);
+    }
+}
+.conteudo-principal{
+    border: 3px solid white;
+}
+.conteudo-lista{
+    border: 3px solid white;
+}
+.meu-time{
+    border: 3px solid white;
+}
+.meu-perfil{
+    border: 3px solid white;
+    img{
+        height: 400px;
+        margin-left: 20px;
+    }
+}
